@@ -103,7 +103,7 @@ hr{
     color: rgb(170, 63, 63);
     padding: 10px 20px;
     border-radius: 10px;
-    margin-top: 50px;
+    margin-top: 5px;
     display: inline-block;
 }
 
@@ -121,6 +121,10 @@ hr{
     color: rgb(161, 69, 69);
 }
 
+.mail{
+    margin : auto;
+    
+}
 
 
 
